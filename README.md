@@ -1,4 +1,4 @@
-# YourAssistabt
+# YourAssistant
 - Micro-managing tool for life's daily tasks
 - To-Do list, finance tracking, calender
 - Created using Vite React and Python
